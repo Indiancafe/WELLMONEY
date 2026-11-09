@@ -1,0 +1,6 @@
+{
+  "name": "NexusMLM - Financial Commission Engine",
+  "description": "Multi-level marketing unilevel network manager, recursive 3-tier financial commission calculator, circular fraud detector, and precision INR ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
